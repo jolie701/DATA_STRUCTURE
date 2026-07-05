@@ -1,0 +1,2521 @@
+==== experiment start ==== 
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 10000 1 0.07936 0 0.015782 0 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 10000 2 0.078773 0 0.017728 0 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 10000 3 0.078728 0 0.015841 0 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 10000 4 0.081338 0 0.013043 0 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 10000 5 0.07911 0.015761 0 0 0 0 0.015742
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 10000 6 0.079473 0.015823 0 0 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 10000 7 0.095035 0 0 0.015769 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 10000 8 0.079192 0 0.015756 0 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 10000 9 0.079343 0 0 0 0 0 0.015954
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 10000 10 0.094492 0 0 0 0.015704 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 10000 11 0.094684 0 0.015717 0 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 10000 12 0.079308 0 0 0.015822 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 10000 13 0.094775 0 0 0.015757 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 10000 14 0.078945 0 0.015813 0 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 10000 15 0.078858 0.015984 0 0 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 10000 16 0.07904 0.015713 0 0 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 10000 17 0.09499 0 0 0 0 0.015721 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 10000 18 0.094954 0 0 0 0 0 0.015777
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 10000 19 0.091052 0.009005 0.007041 0 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 10000 20 0.078707 0 0.015716 0 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 10000 30000 1 0.078777 0.015823 0 0 0 0 0.015768
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 10000 30000 2 0.094514 0 0.015708 0 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 10000 30000 3 0.084189 0 0 0 0 0.01576 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 10000 30000 4 0.073097 0.015732 0 0 0 0.011145 0.004542
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 10000 30000 5 0.078966 0.015782 0 0 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 10000 30000 6 0.094442 0 0 0 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 10000 30000 7 0.078309 0.015707 0.006144 0 0 0 0.009578
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 10000 30000 8 0.095979 0 0 0 0 0.014534 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 10000 30000 9 0.094319 0 0.015803 0 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 10000 30000 10 0.094896 0 0 0 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 10000 30000 11 0.078722 0.015709 0 0 0 0 0.015725
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 10000 30000 12 0.078605 0 0.015771 0 0 0 0.008211
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 10000 30000 13 0.094343 0 0 0 0 0 0.015826
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 10000 30000 14 0.094774 0 0 0 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 10000 30000 15 0.078976 0 0.016077 0 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 10000 30000 16 0.07857 0.015722 0 0 0 0 0.015801
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 10000 30000 17 0.094311 0.004618 0 0 0 0 0.011047
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 10000 30000 18 0.078642 0.015729 0 0 0 0 0.015705
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 10000 30000 19 0.078705 0.01573 0 0 0 0 0.015831
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 10000 30000 20 0.079056 0.015752 0 0 0 0 0.015717
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 30000 1 0.078654 0.01574 0 0 0 0 0.015763
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 30000 2 0.077623 0 0.015648 0 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 30000 3 0.094439 0 0 0.015767 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 30000 4 0.078799 0.015683 0 0 0 0 0.015782
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 30000 5 0.097361 0.013541 0 0 0 0 0.015755
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 30000 6 0.079438 0.016131 0 0 0 0 0.015833
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 30000 7 0.079016 0 0.015705 0 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 30000 8 0.079016 0.012858 0.003087 0 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 30000 9 0.079203 0 0.015806 0 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 30000 10 0.078841 0.01571 0 0 0 0 0.015924
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 30000 11 0.095096 0 0.01576 0 0 0 0.007674
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 30000 12 0.078582 0 0.015758 0 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 30000 13 0.078821 0 0.01575 0 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 30000 14 0.079123 0.015833 0 0 0 0 0.015829
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 30000 15 0.078733 0 0.015647 0 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 30000 16 0.079077 0.015792 0 0 0 0 0.015782
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 30000 17 0.078946 0.015755 0 0 0 0 0.015764
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 30000 18 0.094877 0 0 0.015798 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 30000 19 0.079255 0 0.015807 0 0 0 0
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+10000 1 30000 20 0.094972 0 0 0 0 0 0.016089
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 50000 1 3.20807 0.0316119 0.0315809 0.0158191 0 0.0157712 0.031848
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 50000 2 3.52716 0.047287 0.0309331 0.0157108 0 0.0157771 0.047291
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 50000 3 2.36876 0.047632 0.0318789 0.015712 0 0.015722 0.0472021
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 50000 4 3.58213 0.0314751 0.047128 0.0157981 0 0.0157461 0.0472829
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 50000 5 3.55448 0.045043 0.0334861 0.0157068 0 0.0157871 0.047591
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 50000 6 3.53344 0.037576 0.0348012 0.0215619 0.00200796 0.00722003 0.03778
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 50000 7 3.51495 0.0503109 0.036407 0.0261052 0 0.00543809 0.0479569
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 50000 8 3.53411 0.0426211 0.0368137 0.0160062 0 0.016149 0.047137
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 50000 9 3.85125 0.0472951 0.0314131 0.0160849 0 0 0.0500338
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 50000 10 3.50116 0.036468 0.0270658 0.0342929 0.00270104 0.00424027 0.0491867
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 50000 11 3.50594 0.0415149 0.0316291 0.0187368 0 0.015754 0.045352
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 50000 12 3.88487 0.0410283 0.031606 0.0159919 0.00522614 0.0100069 0.0474
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 50000 13 3.52305 0.0389991 0.0317221 0.0333991 0 0 0.06234
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 50000 14 3.61449 0.040766 0.0346639 0.0196521 0 0.011924 0.0372159
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 50000 15 3.52597 0.0318401 0.0318019 0.0158739 0.0160551 0.00782108 0.04002
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 50000 16 3.48882 0.0495501 0.029875 0.016196 0 0 0.0556691
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 50000 17 3.56237 0.0316107 0.037395 0.0183442 0 0 0.0476241
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 50000 18 3.54136 0.0346291 0.0440938 0.015882 0 0.0161202 0.0394838
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 50000 19 3.52216 0.0373697 0.0393381 0.0158639 0 0 0.0473349
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 50000 20 3.58715 0.0357432 0.036777 0.014256 0.012742 0.00936198 0.0382059
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 20000 70000 1 3.48303 0.0316491 0.0319333 0.0315657 0 0.0148354 0.031548
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 20000 70000 2 3.95751 0.0444498 0.0352044 0.0127635 0 0.0161095 0.0474019
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 20000 70000 3 3.47282 0.0535202 0.0333331 0.0246658 0 0 0.0586071
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 20000 70000 4 3.52437 0.040045 0.0398569 0.0160849 0 0.00516891 0.0479081
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 20000 70000 5 3.53885 0.0437799 0.026614 0.0254779 0 0.0116401 0.0410969
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 20000 70000 6 3.51035 0.053632 0.0346642 0.0218 0 0.0114639 0.03617
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 20000 70000 7 3.52578 0.0411148 0.0225751 0.0315559 0 0.0157921 0.0474238
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 20000 70000 8 3.53782 0.042119 0.0368631 0.0200579 0 0.0139441 0.043288
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 20000 70000 9 3.52013 0.0474751 0.0315907 0.0339563 0 0.0133381 0.047585
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 20000 70000 10 3.529 0.0296142 0.0451121 0.0229359 0 0.0128281 0.0454919
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 20000 70000 11 3.49762 0.0414243 0.0362689 0.015909 0 0.0178108 0.0340211
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 20000 70000 12 3.57095 0.04795 0.0321109 0.016077 0 0.016037 0.050823
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 20000 70000 13 3.56648 0.0381908 0.0313332 0.0158658 0.0157611 0 0.0472999
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 20000 70000 14 3.49937 0.0356412 0.0313327 0.0160372 0 0.0159822 0.0476038
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 20000 70000 15 3.4695 0.0477912 0.0318549 0.0317259 0 0 0.068296
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 20000 70000 16 3.53436 0.0385509 0.0313942 0.0317559 0 0 0.063251
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 20000 70000 17 3.51521 0.047914 0.0316112 0.0323319 0 0.00763702 0.0555558
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 20000 70000 18 3.53483 0.0317068 0.0426121 0.0208192 0 0.00900793 0.038451
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 20000 70000 19 3.53638 0.04127 0.026293 0.0318499 0 0.00872135 0.048558
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 20000 70000 20 3.54756 0.044004 0.037744 0.018178 0.00745988 0.00638199 0.041256
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 70000 1 3.90802 0.0371089 0.0313232 0.022763 0.00200987 0.00753307 0.0457559
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 70000 2 3.52179 0.0409431 0.0349679 0.0158319 0 0.00847793 0.0469029
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 70000 3 3.52183 0.0445602 0.0449498 0.0181842 0 0.0118289 0.0475042
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 70000 4 3.48283 0.0505652 0.0338979 0.0213211 0 0.00415301 0.050292
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 70000 5 3.5023 0.031848 0.0475991 0.018101 0 0.0136447 0.051456
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 70000 6 3.89166 0.0445161 0.0344999 0.0159049 0 0.0158281 0.0392399
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 70000 7 3.51181 0.0398641 0.0323751 0.016115 0 0.0157921 0.047796
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 70000 8 3.56456 0.0402551 0.0472319 0.015723 0.00802112 0.00808001 0.04737
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 70000 9 3.69988 0.037498 0.0422411 0.0159249 0 0.018898 0.044723
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 70000 10 3.50723 0.0359659 0.0426259 0.015861 0 0.015027 0.0497999
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 70000 11 3.54359 0.0491369 0.0349109 0.024013 0 0.00560308 0.0420859
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 70000 12 3.61998 0.0399258 0.0397391 0.015703 0 0.01601 0.046798
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 70000 13 3.56457 0.0368781 0.0514538 0.015722 0.00200891 0.003757 0.048713
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 70000 14 3.52481 0.044574 0.0366139 0.0218902 0.0026257 0 0.047786
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 70000 15 3.54268 0.0481231 0.0323319 0.016166 0 0.0161321 0.0478368
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 70000 16 3.57665 0.0414948 0.0376511 0.018805 0 0.0125628 0.0478323
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 70000 17 3.48425 0.047925 0.0265651 0.020061 0.00992417 0.00729585 0.0400321
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 70000 18 3.56873 0.0385244 0.0282488 0.0193009 0 0.0124469 0.0471222
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 70000 19 3.53177 0.0457618 0.0340233 0.0204449 0 0.0128188 0.0435042
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+50000 1 70000 20 3.51221 0.043407 0.0302808 0.025003 0 0 0.0539482
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 100000 1 14.1338 0.0786762 0.0634022 0.0477104 0.0157614 0.0157385 0.0942612
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 100000 2 14.2474 0.07866 0.0785303 0.0477285 0 0.0205011 0.10622
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 100000 3 15.2201 0.0978899 0.0752506 0.0486116 0 0.0157032 0.0962048
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 100000 4 14.1799 0.0855808 0.0795031 0.0315619 0 0.0156622 0.0973139
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 100000 5 14.4041 0.0864553 0.0730381 0.0397758 0 0.0255327 0.0819979
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 100000 6 14.1103 0.0956192 0.0793352 0.0298586 0 0.0184879 0.0934715
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 100000 7 14.174 0.07899 0.0870056 0.0460405 0 0.0210371 0.0936356
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 100000 8 14.092 0.0946808 0.0743237 0.0411415 0.00827599 0.0190601 0.100641
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 100000 9 14.3496 0.0873175 0.0634251 0.0475588 0 0.0155258 0.0946608
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 100000 10 14.202 0.0861416 0.07724 0.0477238 0 0.0196791 0.0908308
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 100000 11 14.1983 0.0971699 0.0844641 0.0400839 0 0.0316477 0.113596
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 100000 12 14.1024 0.0876675 0.0802717 0.0463085 0.00367451 0.0202274 0.0834665
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 100000 13 14.1026 0.0888138 0.0858335 0.0294466 0.0157871 0.0160246 0.0950994
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 100000 14 14.0006 0.0768709 0.0790262 0.0471296 0 0.0262547 0.0955276
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 100000 15 16.1319 0.0816498 0.07057 0.052702 0 0.0220108 0.0857716
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 100000 16 14.1367 0.0910397 0.0786867 0.0438824 0.00506401 0.0156584 0.0951462
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 100000 17 14.4592 0.0945845 0.0787792 0.0471869 0 0.0160551 0.0950584
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 100000 18 15.9112 0.0950365 0.0956326 0.0474396 0 0.0316105 0.0950165
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 100000 19 14.0873 0.0837564 0.0746508 0.0447617 0.00543308 0.0139914 0.0958014
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 100000 20 14.1209 0.0789518 0.0833998 0.0511436 0.00395203 0.0165844 0.0836725
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 50000 150000 1 14.2376 0.0935936 0.0764704 0.0465651 0.00394821 0.0195656 0.0944653
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 50000 150000 2 14.1526 0.0824556 0.0761843 0.0475788 0 0.0157986 0.111187
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 50000 150000 3 14.113 0.0944576 0.0757818 0.0422716 0.00537968 0.01583 0.088912
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 50000 150000 4 14.9043 0.0794601 0.0815001 0.0456009 0 0.0319433 0.0790682
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 50000 150000 5 16.1928 0.0945339 0.08325 0.042345 0 0.0156593 0.0953617
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 50000 150000 6 14.3951 0.0825281 0.0762119 0.0509233 0.00401306 0.0128527 0.0880499
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 50000 150000 7 16.0055 0.0820675 0.0820751 0.0447159 0.00474548 0.0191174 0.0851173
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 50000 150000 8 14.0873 0.0866823 0.083787 0.0358391 0.011941 0.0202999 0.0906258
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 50000 150000 9 14.344 0.0855255 0.0728817 0.0501785 0.00418186 0.0249052 0.0852318
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 50000 150000 10 15.2369 0.0836716 0.0772839 0.0462332 0 0.0286808 0.0787964
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 50000 150000 11 14.0894 0.0846338 0.0741425 0.0471849 0 0.0229197 0.088233
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 50000 150000 12 14.1281 0.0785112 0.0788345 0.0593815 0.00300312 0.0192003 0.0937386
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 50000 150000 13 14.085 0.0950394 0.0627956 0.0631485 0 0.0157452 0.125663
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 50000 150000 14 14.1386 0.094964 0.0785818 0.0476704 0 0.0157766 0.0947037
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 50000 150000 15 14.2013 0.084547 0.0759878 0.0440178 0 0.0225868 0.0908728
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 50000 150000 16 14.1935 0.0849218 0.10218 0.0555906 0.00740528 0.0159922 0.110514
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 50000 150000 17 14.0963 0.0889301 0.0700026 0.0377655 0.0139236 0.0137062 0.0813608
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 50000 150000 18 16.0088 0.083744 0.0641308 0.0458775 0.00375175 0.0138874 0.0985527
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 50000 150000 19 14.0976 0.0837765 0.0732279 0.0437326 0.00277615 0.0129662 0.0969782
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 50000 150000 20 16.1493 0.0943336 0.0731087 0.0473061 0.00435448 0.0178509 0.079752
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 150000 1 15.9083 0.0787172 0.0834064 0.0459003 0.0134201 0.0156326 0.0984631
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 150000 2 14.0993 0.0825605 0.07269 0.0452099 0 0.0161343 0.0973997
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 150000 3 15.3025 0.0791254 0.0790195 0.0479879 0 0.0160456 0.0854683
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 150000 4 14.6291 0.0886869 0.0849943 0.0498552 0 0.0240307 0.0884104
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 150000 5 14.092 0.079196 0.0795631 0.031476 0.00174999 0.015769 0.0959644
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 150000 6 14.1465 0.0833292 0.0633917 0.0515871 0.00304317 0.0179996 0.0932646
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 150000 7 14.1643 0.08813 0.0775452 0.0501232 0 0.0219574 0.0951529
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 150000 8 16.1793 0.0724468 0.0852947 0.0467319 0 0.013031 0.0940704
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 150000 9 14.0741 0.0787802 0.0785599 0.0471783 0 0.0157461 0.126558
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 150000 10 14.0331 0.0788622 0.0789375 0.0474529 0 0.0156975 0.0945978
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 150000 11 15.4963 0.0631371 0.0946741 0.0477333 0 0.0157537 0.078826
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 150000 12 14.1685 0.0791121 0.0948505 0.0473833 0.0106525 0.00512505 0.0790186
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 150000 13 14.2099 0.110471 0.0948181 0.0315685 0.0160198 0.0158091 0.0631876
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 150000 14 14.3086 0.0631237 0.0789394 0.0631428 0 0.0157642 0.0788431
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 150000 15 14.5878 0.0799685 0.0962553 0.0511084 0 0.0146999 0.0908489
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 150000 16 14.2245 0.0727968 0.0835905 0.042675 0.00219154 0.0137167 0.0781584
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 150000 17 14.5968 0.0764742 0.0715122 0.0440493 0 0.0158825 0.0632181
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 150000 18 14.2084 0.0847015 0.0820618 0.037509 0.00513649 0.0146618 0.0709791
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 150000 19 14.3912 0.0816946 0.0665474 0.047617 0 0.0153456 0.0657635
+If you want to print out array A ?(yes:1;no:2)
+Input size of array,min,max and random seed.
+
+
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+order OK!
+
+
+100000 1 150000 20 14.3309 0.077631 0.0774508 0.0316839 0.0093689 0.0159836 0.0926895
